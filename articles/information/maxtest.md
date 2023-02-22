@@ -8,6 +8,7 @@ tags:   
 
 これはテスト記事です。
 
-RU 消費量を確認するためには、Normalized RU Consumption をしっかりと確認しましょう。
+RU 消費量を確認するためには、Normalized RU Consumption を確認しましょう。
+
 
 ![](./maxtest.md/2023-02-22-18-01-15.png)
