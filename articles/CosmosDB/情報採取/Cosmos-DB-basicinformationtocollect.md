@@ -55,11 +55,9 @@ https://support.microsoft.com/en-us/help/22878/windows-10-record-steps
 
 1. Cosmos DB に接続しているサービス (例:  Azure Functions / Azure Web App Service / <span lang="en-US" style="background-color:white">Azure Kubernetes Service (AKS)</span> , 他)
 
-```
-*注釈: 
-問題の内容に応じて利用サービスの Subscription Id や名前などの情報を依頼することがございます。
-また問題によっては該当サービス観点でのお問い合わせを相談させていただくことがございます。
-```
+>[!NOTE]
+>問題の内容に応じて利用サービスの Subscription Id や名前などの情報を依頼することがございます。
+>また問題によっては該当サービス観点でのお問い合わせを相談させていただくことがございます。
 
 2. Cosmos DB SDK とそのバージョン情報 (.Net/.Net Core/Java/Node.js/Python 他)
 
