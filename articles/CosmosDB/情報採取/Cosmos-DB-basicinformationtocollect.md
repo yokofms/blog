@@ -51,7 +51,7 @@ https://support.microsoft.com/en-us/help/22878/windows-10-record-steps
 
 6.  (可能であれば) アプリケーションからでなくポータルからの操作で同様にエラーが発生するかお知らせください。
 
-# Client ・Application 情報
+#　Client ・Application 情報
 
 1. Cosmos DB に接続しているサービス (例:  Azure Functions / Azure Web App Service / <span lang="en-US" style="background-color:white">Azure Kubernetes Service (AKS)</span> , 他)
 
