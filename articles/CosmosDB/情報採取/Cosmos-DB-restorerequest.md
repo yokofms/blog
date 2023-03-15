@@ -35,7 +35,7 @@ tags:
 7.復元先のデータベースアカウント名。なお、指定がない場合、復元対象のデータベースアカウント名-r1 となります。
 
 ## 注意事項
-バックアップ保持バックアップ保持期間を過ぎると復元ができなくなるため、データ復元のために弊社サポートに依頼いただく前にアカウントのバックアップ保有期間を 7 日以上に増やしてください。
+バックアップ保有期間を過ぎると復元ができなくなるため、データ復元のために弊社サポートに依頼いただく前にアカウントのバックアップ保有期間を 7 日以上に増やしてください。
 
 ### <span style="text-decoration:underline">参考</span>
 https://learn.microsoft.com/ja-jp/azure/cosmos-db/configure-periodic-backup-restore#configure-backup-interval-retention
