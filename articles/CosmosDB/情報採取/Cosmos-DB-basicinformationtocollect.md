@@ -99,7 +99,7 @@ CDBQueryRuntimeStatistics
 |project TimeGenerated,ActivityId,AccountName,DatabaseName,CollectionName,PartitionKeyRangeId,QueryText,SourceSystem,Type,_ResourceId
 ```
 
-![](./Cosmos-DB-basicinformationtocollect/1-a962ac15631049a8af1f3b0b26a60b0c.png)<br> |
+![](./Cosmos-DB-basicinformationtocollect/1-a962ac15631049a8af1f3b0b26a60b0c.png)<br>
 
 
 ### <span style="text-decoration:underline">Data plane requests</span>
